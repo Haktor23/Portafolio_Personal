@@ -33,7 +33,7 @@ function Header() {
       </div>
 
       <div className='info-personal'>
-        <h2 className='descripcion'>¡Hola! Soy Héctor, apasionado de la informática y la programación.
+        <h2 className='descripcion'>¡Hola! Soy Hector, apasionado de la informática y la programación.
           <br /><br />
           Tras muchas horas de código y café, obtuve mi título de Desarrollador de Aplicaciones Web (DAW). <br /> <br />
           Aún no he tenido la oportunidad de trabajar en ninguna empresa, pero estoy listo para demostrar mis habilidades.
