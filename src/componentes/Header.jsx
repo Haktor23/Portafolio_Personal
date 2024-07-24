@@ -108,7 +108,7 @@ function Header() {
           <div className='project'><h2>Proyecto 1</h2>
 
             <div className='texto-proyecto'>
-              <p className='p-proyecto centrado'>Primer proyecto destinado a una empresa de ganaderia</p>
+              <p className='p-proyecto centrado'>Primer proyecto destinado a una empresa de ganadería</p>
 
               <p className='p-proyecto textoedit'>
                 Este sitio web ha sido creado para una empresa ganadera,
