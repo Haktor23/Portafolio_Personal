@@ -146,6 +146,47 @@ body {
   margin-left: 5px;
 }
 
+.mysql {
+  background-image: url(./assets/mysqlLogo.png);
+}
+
+.oracledb {
+  background-image: url(./assets/Oracle_Database-Logo.png);
+}
+
+.firebase {
+  background-image: url(./assets/logoFirebase.png);
+}
+
+.supabase {
+  background-image: url(./assets/supabase-logo.png);
+}
+
+.dbeaver {
+  background-image: url(./assets/DBeaver-Logo.png);
+}
+
+.docker {
+  background-image: url(./assets/Docker-Logo.png);
+}
+
+.githubb {
+  background-image: url(./assets/GitHubLogo.png);
+}
+
+.git {
+  background-image: url(./assets/Git_logo.png);
+}
+
+.virtualbox {
+  background-image: url(./assets/Virtualbox_logo.png);
+
+}
+
+.photoshop {
+  background-image: url(./assets/AdobePS_Logo.png);
+}
+
 
 /* Apartado contactos*/
 .contact-section {
@@ -392,29 +433,29 @@ body {
 }
 
 @media screen and (max-width: 1300px) {
- 
-  .descripcion{
+
+  .descripcion {
     width: 80%;
   }
 
-  .img-proyecto{
+  .img-proyecto {
     width: 90%;
     height: 370px;
-    
+
   }
 
-  .textoedit{
+  .textoedit {
     padding-bottom: 20px;
   }
 }
 
 @media screen and (max-width: 800px) {
- 
-  .descripcion{
+
+  .descripcion {
     width: 80%;
   }
 
-  .nom{
+  .nom {
     font-size: 2.3em;
   }
 
@@ -425,18 +466,18 @@ body {
     justify-content: center;
     gap: 20px;
   }
-  
+
   .btn {
-   
-    width: 100%; 
+
+    width: 100%;
     max-width: 300px;
     margin: 5px;
   }
 
 
-  .text{
+  .text {
     text-align: center;
   }
 
-  
+
 }
