@@ -1,15 +1,18 @@
 import React from 'react';
-import Content from './componentes/Content';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
+import HomeView from './Views/HomeView';
 
 import './App.css';
 
 
 function App() {
   return (
-    <div className="App">
-      <Content />
-
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Navigate to="/home" />} />
+        <Route path="/home" element={<HomeView />} />
+      </Routes>
+    </Router>
   );
 }
 
