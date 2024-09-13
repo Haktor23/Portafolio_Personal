@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-function Header() {
+function Content() {
   const [activeSection, setActiveSection] = useState(''); // Estado para controlar la sección activa
 
   const handleSectionClick = (section) => {
@@ -187,4 +187,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default Content;
