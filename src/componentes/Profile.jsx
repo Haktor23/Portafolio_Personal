@@ -6,8 +6,8 @@ function Profile() {
       <h2 className="descripcion">
         ¡Hola! Soy Hector, apasionado de la informática y la programación.
         <br /><br />
-        Tras muchas horas de código y café, obtuve mi título de Desarrollador de Aplicaciones Web (DAW). <br /> <br />
-        <br /><br />
+        Tras muchas horas de código y café, obtuve mi título de Desarrollador de Aplicaciones Web (DAW). <br />
+        <br />
         Mi ordenador y yo estamos ansiosos por resolver problemas y enfrentar nuevos desafíos.
         <br /><br />
         Si buscas a alguien con pasión y humor para tu equipo, ¡aquí estoy!
