@@ -1,1 +1,1 @@
-Porfolio *Hector Burgos Martí* realizado con REACT
+Porfolio *Héctor Burgos Martí* realizado con REACT
